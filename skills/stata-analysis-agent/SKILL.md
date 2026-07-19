@@ -100,6 +100,4 @@ Generate:
 - Results interpretation
 - Table explanation
 - Reviewer response
-Create stata-analysis-agent skill
-Commit directly to main branch
-Commit new file
+
