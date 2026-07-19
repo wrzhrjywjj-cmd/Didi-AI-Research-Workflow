@@ -1,3 +1,4 @@
+Fix YAML front matter
 ---
 name: stata-analysis-agent
 description: 
